@@ -1,0 +1,8 @@
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\bin\Debug\Pratice.exe.config
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\bin\Debug\Pratice.exe
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\bin\Debug\Pratice.pdb
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\obj\Debug\Pratice.csproj.AssemblyReference.cache
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\obj\Debug\Pratice.csproj.SuggestedBindingRedirects.cache
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\obj\Debug\Pratice.csproj.CoreCompileInputs.cache
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\obj\Debug\Pratice.exe
+C:\Users\SaiJyothi D\source\repos\Pratice\Pratice\obj\Debug\Pratice.pdb
