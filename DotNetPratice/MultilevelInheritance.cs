@@ -7,18 +7,18 @@ using System.Threading.Tasks;
 
 namespace DotNetPratice
 {
-    internal class MultilevelInheritance
+    public class MultilevelInheritance
     {
         protected string RollNo = "116";
         protected string name = "Jyothi";
-        public void shampain()
+        public virtual void GetInfo()
         {
             Console.WriteLine("RollNo :{0}", RollNo);
             Console.WriteLine("Name :{0}", name);
             Console.WriteLine();
         }
         }
-    class student: Person
+    class Student: MultilevelInheritance
     {
         public string id = "something";
         public override void GetInfo()
@@ -30,7 +30,7 @@ namespace DotNetPratice
     class stud: Student
     {
         private string StudentAddress = "LONDON UK";
-        public void GetInfo()
+        public override void GetInfo()
         {
             base.GetInfo();
             Console.WriteLine("Student Address :{0}", StudentAddress);
@@ -41,7 +41,7 @@ namespace DotNetPratice
     {
         public static void main()
         {
-            student E= new student();
+            MultilevelInheritance E= new MultilevelInheritance();
             E.GetInfo();
             stud stud = new stud();
             Console.WriteLine();
