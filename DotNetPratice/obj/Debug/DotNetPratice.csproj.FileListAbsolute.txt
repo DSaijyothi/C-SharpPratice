@@ -1,0 +1,8 @@
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\bin\Debug\DotNetPratice.exe.config
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\bin\Debug\DotNetPratice.exe
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\bin\Debug\DotNetPratice.pdb
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\obj\Debug\DotNetPratice.csproj.AssemblyReference.cache
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\obj\Debug\DotNetPratice.csproj.SuggestedBindingRedirects.cache
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\obj\Debug\DotNetPratice.csproj.CoreCompileInputs.cache
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\obj\Debug\DotNetPratice.exe
+C:\Users\SaiJyothi D\source\repos\DotNetPratice\DotNetPratice\obj\Debug\DotNetPratice.pdb
